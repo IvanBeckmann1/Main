@@ -1,0 +1,21 @@
+2019-12-22 12:34:36,907 [INFO] oandapyV20.oandapyV20 : setting up API-client for environment practice
+2019-12-22 12:34:36,907 [INFO] oandapyV20.oandapyV20 : performing request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders
+2019-12-22 12:34:37,608 [ERROR] oandapyV20.oandapyV20 : request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders failed [400,{"errorMessage":"Unable to parse JSON body."}]
+2019-12-22 12:35:12,639 [INFO] oandapyV20.oandapyV20 : setting up API-client for environment practice
+2019-12-22 12:35:12,640 [INFO] oandapyV20.oandapyV20 : performing request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders
+2019-12-22 12:35:13,417 [ERROR] oandapyV20.oandapyV20 : request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders failed [400,{"errorMessage":"Unable to parse JSON body."}]
+2019-12-22 12:35:13,466 [INFO] oandapyV20.oandapyV20 : performing request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders
+2019-12-22 12:35:13,645 [ERROR] oandapyV20.oandapyV20 : request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders failed [400,{"errorMessage":"Unable to parse JSON body."}]
+2019-12-22 12:35:46,140 [INFO] oandapyV20.oandapyV20 : setting up API-client for environment practice
+2019-12-22 12:35:46,141 [INFO] oandapyV20.oandapyV20 : performing request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders
+2019-12-22 12:35:46,958 [ERROR] oandapyV20.oandapyV20 : request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders failed [400,{"errorMessage":"Unable to parse JSON body."}]
+2019-12-22 12:35:46,958 [INFO] oandapyV20.oandapyV20 : performing request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders
+2019-12-22 12:35:47,094 [ERROR] oandapyV20.oandapyV20 : request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders failed [400,{"errorMessage":"Unable to parse JSON body."}]
+2019-12-22 12:36:21,573 [INFO] oandapyV20.oandapyV20 : setting up API-client for environment practice
+2019-12-22 12:36:21,573 [INFO] oandapyV20.oandapyV20 : performing request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders
+2019-12-22 12:36:22,216 [INFO] oandapyV20.oandapyV20 : performing request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders
+2019-12-22 12:36:22,433 [ERROR] oandapyV20.oandapyV20 : request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders failed [400,{"errorMessage":"Invalid value specified for 'order.instrument'"}]
+2019-12-22 12:41:28,515 [INFO] oandapyV20.oandapyV20 : setting up API-client for environment practice
+2019-12-22 12:41:28,515 [INFO] oandapyV20.oandapyV20 : performing request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders
+2019-12-22 22:55:50,618 [INFO] oandapyV20.oandapyV20 : setting up API-client for environment practice
+2019-12-22 22:55:50,639 [INFO] oandapyV20.oandapyV20 : performing request https://api-fxpractice.oanda.com/v3/accounts/101-004-12973613-001/orders
